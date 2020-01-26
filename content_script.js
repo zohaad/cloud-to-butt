@@ -46,3 +46,4 @@ function handleText(textNode)
 	
 	textNode.nodeValue = v;
 }
+
